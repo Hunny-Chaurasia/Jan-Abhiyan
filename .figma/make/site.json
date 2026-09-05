@@ -1,0 +1,10 @@
+{
+  "description": "Facilitates issue reporting and resolution through role-specific dashboards for citizens, officials, universities, staff, and admins in government services.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
