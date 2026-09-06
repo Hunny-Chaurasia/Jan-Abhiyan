@@ -4,7 +4,7 @@ import App from './App'
 import './index.css'
 
 // Dynamically set favicon via Vite bundle
-import favicon from './assets/favicon-full-logo-circular.png'
+import favicon from './public/favicon-full-logo-circular.png'
 
 const link = (document.querySelector("link[rel*='icon']") || document.createElement('link')) as HTMLLinkElement
 link.type = 'image/png'
